@@ -1,4 +1,6 @@
 # IoT Based Online Integrated System To Share Available Parking Space (ParkO).
+To preview this website is live click at: https://tanjiltamim.github.io/IoT-BASED-ONLINE-PARKING-SYSTEM/
+
 • Developed an IoT based online parking system which will help the user to find a nearby parking space and it will reduce road side parking as a result reduce traffic jam.
 
 • User can search for nearby parking space and see the live slot occupancy status.
